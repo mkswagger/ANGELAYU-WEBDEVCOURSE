@@ -1,0 +1,26 @@
+.sq3{
+    background-color: #CBF1F5;
+    width:200px;
+    height: 200px;
+    border: solid 10px;
+    padding: 20px;
+}
+
+.sq1
+{
+    background-color: hsl(143, 68%, 88%);
+    width:200px;
+    height: 200px;
+    border: solid 20px;
+    margin-left: 260px;
+
+}
+
+.sq2
+{
+    background-color: red;
+    width:200px;
+    height: 200px;
+    border: solid  20px;
+    margin-left: 500px;
+}
